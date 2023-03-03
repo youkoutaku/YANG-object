@@ -1,36 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "電気電子系",
-      "path": "00 Index/電気電子系.md"
+      "basename": "固有値と固有ベクトル",
+      "path": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md"
+    },
+    {
+      "basename": "線形代数ノート",
+      "path": "Note/数学/線形代数/線形代数ノート.md"
+    },
+    {
+      "basename": "内積",
+      "path": "Note/数学/線形代数/ベクトル空間/内積.md"
+    },
+    {
+      "basename": "Schwarzの不等式",
+      "path": "Note/数学/線形代数/ベクトル空間/Schwarzの不等式.md"
+    },
+    {
+      "basename": "三角不等式",
+      "path": "Note/数学/線形代数/ベクトル空間/三角不等式.md"
+    },
+    {
+      "basename": "複素内積",
+      "path": "Note/数学/線形代数/ベクトル空間/複素内積.md"
+    },
+    {
+      "basename": "標準内積",
+      "path": "Note/数学/線形代数/ベクトル空間/標準内積.md"
+    },
+    {
+      "basename": "直交行列",
+      "path": "Note/数学/線形代数/ベクトル空間/直交行列.md"
+    },
+    {
+      "basename": "転置行列",
+      "path": "Note/数学/線形代数/行列/転置行列.md"
+    },
+    {
+      "basename": "実正方行列",
+      "path": "Note/数学/線形代数/ベクトル空間/実正方行列.md"
+    },
+    {
+      "basename": "行列式",
+      "path": "Note/数学/線形代数/行列式/行列式.md"
+    },
+    {
+      "basename": "線形写像",
+      "path": "Note/数学/線形代数/ベクトル空間/線形写像.md"
+    },
+    {
+      "basename": "像空間",
+      "path": "Note/数学/線形代数/ベクトル空間/像空間.md"
+    },
+    {
+      "basename": "写像",
+      "path": "Note/数学/線形代数/ベクトル空間/写像.md"
+    },
+    {
+      "basename": "Gram-Schmidtの正規直交化法",
+      "path": "Note/数学/線形代数/ベクトル空間/Gram-Schmidtの正規直交化法.md"
+    },
+    {
+      "basename": "正規直交基底",
+      "path": "Note/数学/線形代数/ベクトル空間/正規直交基底.md"
+    },
+    {
+      "basename": "正規直交系",
+      "path": "Note/数学/線形代数/ベクトル空間/正規直交系.md"
+    },
+    {
+      "basename": "正規化",
+      "path": "Note/数学/線形代数/ベクトル空間/正規化.md"
+    },
+    {
+      "basename": "内積空間",
+      "path": "Note/数学/線形代数/ベクトル空間/内積空間.md"
+    },
+    {
+      "basename": "行列",
+      "path": "Note/数学/線形代数/行列/行列.md"
+    },
+    {
+      "basename": "固有値",
+      "path": "Note/数学/線形代数/固有値と固有ベクトル/固有値.md"
+    },
+    {
+      "basename": "核空間",
+      "path": "Note/数学/線形代数/ベクトル空間/核空間.md"
+    },
+    {
+      "basename": "基底の取り替え行列",
+      "path": "Note/数学/線形代数/ベクトル空間/基底の取り替え行列.md"
+    },
+    {
+      "basename": "階数",
+      "path": "Note/数学/線形代数/連立方程式/階数.md"
+    },
+    {
+      "basename": "rank",
+      "path": "Note/数学/線形代数/連立方程式/rank.md"
+    },
+    {
+      "basename": "線形性",
+      "path": "Note/デジタル信号処理/数学準備/線形性.md"
+    },
+    {
+      "basename": "ベクトル空間",
+      "path": "Note/数学/線形代数/ベクトル空間/ベクトル空間.md"
+    },
+    {
+      "basename": "線形写像の表現行列",
+      "path": "Note/数学/線形代数/ベクトル空間/線形写像の表現行列.md"
+    },
+    {
+      "basename": "常微分方程式ノート",
+      "path": "Note/数学/常微分方程式/常微分方程式ノート.md"
     },
     {
       "basename": "数学・物理",
       "path": "00 Index/数学・物理.md"
     },
     {
-      "basename": "情報系",
-      "path": "00 Index/情報系.md"
+      "basename": "多変数の微積分学ノート",
+      "path": "Note/数学/多変数の微積分学/多変数の微積分学ノート.md"
     },
     {
-      "basename": "四力&制御",
-      "path": "00 Index/四力&制御.md"
+      "basename": "オイラーの公式",
+      "path": "Note/数学/複素数解析/知識/オイラーの公式.md"
+    },
+    {
+      "basename": "複素解析ノート",
+      "path": "Note/数学/複素数解析/複素解析ノート.md"
+    },
+    {
+      "basename": "電気電子系",
+      "path": "00 Index/電気電子系.md"
     },
     {
       "basename": "1_機械システム工学科情報機械プログラム",
       "path": "00 Index/1_機械システム工学科情報機械プログラム.md"
     },
     {
+      "basename": "機械設計・製図・生産",
+      "path": "00 Index/機械設計・製図・生産.md"
+    },
+    {
       "basename": "システム系",
       "path": "00 Index/システム系.md"
     },
     {
-      "basename": "機械設計・製図",
-      "path": "00 Index/機械設計・製図.md"
+      "basename": "四力&制御",
+      "path": "00 Index/四力&制御.md"
     },
     {
-      "basename": "信号処理",
-      "path": "Note/デジタル信号処理/知識/信号処理.md"
+      "basename": "情報系",
+      "path": "00 Index/情報系.md"
+    },
+    {
+      "basename": "コンピューター数学ノート",
+      "path": "Note/数学/コンピューター数学/コンピューター数学ノート.md"
+    },
+    {
+      "basename": "材料力学ノート",
+      "path": "Note/材料力学/材料力学ノート.md"
+    },
+    {
+      "basename": "Drawing 2023-02-24 10.00.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-24 10.00.50.excalidraw.md"
+    },
+    {
+      "basename": "固有ベクトル",
+      "path": "Note/数学/線形代数/固有値と固有ベクトル/固有ベクトル.md"
+    },
+    {
+      "basename": "座標",
+      "path": "Note/数学/線形代数/ベクトル空間/座標.md"
+    },
+    {
+      "basename": "1次関係式",
+      "path": "Note/数学/線形代数/ベクトル空間/1次関係式.md"
+    },
+    {
+      "basename": "解空間の次元",
+      "path": "Note/数学/線形代数/ベクトル空間/解空間の次元.md"
+    },
+    {
+      "basename": "生成系",
+      "path": "Note/数学/線形代数/ベクトル空間/生成系.md"
+    },
+    {
+      "basename": "1次独立",
+      "path": "Note/数学/線形代数/ベクトル空間/1次独立.md"
+    },
+    {
+      "basename": "1次従属",
+      "path": "Note/数学/線形代数/ベクトル空間/1次従属.md"
+    },
+    {
+      "basename": "基底",
+      "path": "Note/数学/線形代数/ベクトル空間/基底.md"
     }
   ],
   "omittedPaths": [],

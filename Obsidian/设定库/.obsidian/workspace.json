@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "6b5a826ebcd68107",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ca97d27947d5c4",
+        "type": "tabs",
+        "dimension": 48.70550161812297,
+        "children": [
+          {
+            "id": "61609233ceb34f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/数学/線形代数/行列式/行列式.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "044f9d0886889325",
+        "type": "tabs",
+        "dimension": 51.29449838187702,
+        "children": [
+          {
+            "id": "5f0803c933e88a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/数学/線形代数/行列式/行列式.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87c2eb7c3713c5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "31e9d5212186323b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc77383338cd0683",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24e161d21fd15376",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "余",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dde3201f650d372e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1c8cfe0ae2b8cf3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3589c38beb3d7dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc39a651238dc8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac807bd60276410",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/数学/線形代数/行列式/行列式.md"
+              }
+            }
+          },
+          {
+            "id": "6fa9c36c0276caed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2ef0ab9ca5bf8244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/数学/線形代数/行列式/行列式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "682019794242dca6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/数学/線形代数/行列式/行列式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c03b4bc501450f3c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "61609233ceb34f26",
+  "lastOpenFiles": [
+    "Note/数学/線形代数/行列式/行列の余因子.md",
+    "Note/数学/線形代数/行列式/行列式.md",
+    "Note/数学/線形代数/行列式/Cramerの公式.md",
+    "Note/数学/線形代数/行列/逆行列.md",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230226095705.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230226095621.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230226095402.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230226095117.png",
+    "Note/数学/線形代数/線形代数ノート.md",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230224121545.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230224121530.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230224115903.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230224115819.png",
+    "Note/数学/線形代数/行列式/attachments/Pasted image 20230224115708.png",
+    "Note/数学/線形代数/行列式/attachments/MommyTalk1677207165939.jpg",
+    "Note/数学/線形代数/行列式/attachments",
+    "Note/数学/線形代数/行列式/サラスの方法.md",
+    "Note/数学/線形代数/行列式/順列の符号.md",
+    "Note/数学/線形代数/行列式/転倒数.md",
+    "Note/数学/線形代数/行列式/順列.md",
+    "Excalidraw/Drawing 2023-02-24 10.00.50.excalidraw.md",
+    "Note/数学/線形代数/連立方程式/連立一次方程式.md",
+    "Note/数学/線形代数/連立方程式/掃き出し法.md",
+    "Note/数学/線形代数/連立方程式/同次連立一次方程式.md",
+    "Note/数学/線形代数/連立方程式/拡大係数行列.md",
+    "Note/数学/線形代数/連立方程式/階段行列.md",
+    "Note/数学/線形代数/連立方程式/階数.md",
+    "Note/数学/線形代数/連立方程式/attachments",
+    "Note/数学/線形代数/連立方程式/行基本変換.md",
+    "Note/数学/線形代数/固有値",
+    "Note/数学/線形代数/行列式",
+    "Note/数学/線形代数/行列/行列.md",
+    "Note/数学/線形代数/行列/一意的.md",
+    "Note/数学/線形代数/連立方程式",
+    "Note/数学/線形代数/行列",
+    "Note/数学/線形代数/行列/正則行列.md",
+    "Note/数学/線形代数/行列/正方行列.md",
+    "Note/数学/線形代数/行列/転置行列.md",
+    "Note/デジタル信号処理/ディジタル信号処理ノート.md",
+    "Note/数学/線形代数/行列/対角成分.md",
+    "00 Index/数学・物理.md",
+    "00 Index/システム系.md"
+  ]
+}

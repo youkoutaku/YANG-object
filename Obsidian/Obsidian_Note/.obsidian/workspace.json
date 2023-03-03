@@ -1,18 +1,40 @@
 {
   "main": {
-    "id": "6b5a826ebcd68107",
+    "id": "ea10997dbd17dd0c",
     "type": "split",
     "children": [
       {
-        "id": "326b0c58831b5e29",
+        "id": "9ef2144781b080a1",
         "type": "tabs",
         "children": [
           {
-            "id": "b298cd501f98209d",
+            "id": "0e496f20a427ab2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fde781146287c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb61634584dfcf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -21,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "87c2eb7c3713c5b9",
+    "id": "ceff8b895f0cbd14",
     "type": "split",
     "children": [
       {
-        "id": "31e9d5212186323b",
+        "id": "1869a877498f91c2",
         "type": "tabs",
         "children": [
           {
-            "id": "dc77383338cd0683",
+            "id": "f18eda2436155f1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,22 +61,22 @@
             }
           },
           {
-            "id": "24e161d21fd15376",
+            "id": "4689ca49df7503f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#連続時間信号",
+                "query": "転置行列",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "dde3201f650d372e",
+            "id": "10c03878de56ca88",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,7 +84,7 @@
             }
           },
           {
-            "id": "a2782b71c1d1dfbc",
+            "id": "31b60ca75497f171",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -76,96 +98,116 @@
     "width": 200
   },
   "right": {
-    "id": "3589c38beb3d7dc3",
+    "id": "89217997b40fd541",
     "type": "split",
     "children": [
       {
-        "id": "bc39a651238dc8af",
+        "id": "1dc16d531691b19a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac807bd60276410",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "6fa9c36c0276caed",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "2ef0ab9ca5bf8244",
+            "id": "55d1007f23f212d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "682019794242dca6",
+            "id": "7481c4b9a0496993",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c03b4bc501450f3c",
+            "id": "ef75123fd776896a",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2d0d24769f1cd3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "dc77383338cd0683",
+  "active": "0e496f20a427ab2f",
   "lastOpenFiles": [
-    "Note/デジタル信号処理/知識/信号処理.md",
-    "Note/デジタル信号処理/未命名.canvas",
-    "00 Index/電気電子系.md",
-    "00 Index/数学・物理.md",
-    "00 Index/情報系.md",
-    "00 Index/四力&制御.md",
-    "00 Index/1_機械システム工学科情報機械プログラム.md",
-    "00 Index/システム系.md",
-    "00 Index/機械設計・製図.md",
-    "Note/202302201121.md"
+    "Note/数学/線形代数/線形代数ノート.md",
+    "Note/数学/線形代数/ベクトル空間/内積.md",
+    "Note/数学/線形代数/ベクトル空間/Schwarzの不等式.md",
+    "Note/数学/線形代数/ベクトル空間/三角不等式.md",
+    "Note/数学/線形代数/ベクトル空間/複素内積.md",
+    "Note/数学/線形代数/ベクトル空間/標準内積.md",
+    "Note/数学/線形代数/ベクトル空間/直交行列.md",
+    "Note/数学/線形代数/行列/転置行列.md",
+    "Note/数学/線形代数/ベクトル空間/実正方行列.md",
+    "Note/数学/線形代数/行列式/行列式.md",
+    "Note/数学/線形代数/ベクトル空間/線形写像.md",
+    "Note/数学/線形代数/ベクトル空間/像空間.md",
+    "Note/数学/線形代数/ベクトル空間/写像.md",
+    "Note/数学/線形代数/ベクトル空間/Gram-Schmidtの正規直交化法.md",
+    "Note/数学/線形代数/ベクトル空間/正規直交基底.md",
+    "Note/数学/線形代数/ベクトル空間/正規直交系.md",
+    "Note/数学/線形代数/ベクトル空間/正規化.md",
+    "Note/数学/線形代数/ベクトル空間/内積空間.md",
+    "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
+    "Note/数学/線形代数/行列/行列.md",
+    "Note/数学/線形代数/固有値と固有ベクトル/固有値.md",
+    "Note/数学/線形代数/ベクトル空間/核空間.md",
+    "Note/数学/線形代数/ベクトル空間/基底の取り替え行列.md",
+    "Note/数学/線形代数/連立方程式/階数.md",
+    "Note/数学/線形代数/連立方程式/rank.md",
+    "Note/デジタル信号処理/数学準備/線形性.md",
+    "Note/数学/コンピューター数学",
+    "Note/数学/線形代数/ベクトル空間",
+    "Note/数学/線形代数/attachments/Pasted image 20230226115613.png",
+    "Note/数学/線形代数/attachments/Pasted image 20230226114939.png",
+    "Note/数学/線形代数/attachments",
+    "Note/数学/線形代数/行列式/attachments/MommyTalk1677207165939.jpg",
+    "Note/数学/線形代数/行列式/attachments/MommyTalk1677207098544 1.jpg",
+    "Note/数学/線形代数/行列式/attachments/MommyTalk1677207098544.jpg"
   ]
 }

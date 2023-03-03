@@ -1,0 +1,175 @@
+{
+  "recentFiles": [
+    {
+      "basename": "行列式",
+      "path": "Note/数学/線形代数/行列式/行列式.md"
+    },
+    {
+      "basename": "行列の余因子",
+      "path": "Note/数学/線形代数/行列式/行列の余因子.md"
+    },
+    {
+      "basename": "Cramerの公式",
+      "path": "Note/数学/線形代数/行列式/Cramerの公式.md"
+    },
+    {
+      "basename": "逆行列",
+      "path": "Note/数学/線形代数/行列/逆行列.md"
+    },
+    {
+      "basename": "線形代数ノート",
+      "path": "Note/数学/線形代数/線形代数ノート.md"
+    },
+    {
+      "basename": "サラスの方法",
+      "path": "Note/数学/線形代数/行列式/サラスの方法.md"
+    },
+    {
+      "basename": "順列の符号",
+      "path": "Note/数学/線形代数/行列式/順列の符号.md"
+    },
+    {
+      "basename": "転倒数",
+      "path": "Note/数学/線形代数/行列式/転倒数.md"
+    },
+    {
+      "basename": "順列",
+      "path": "Note/数学/線形代数/行列式/順列.md"
+    },
+    {
+      "basename": "Drawing 2023-02-24 10.00.50.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-24 10.00.50.excalidraw.md"
+    },
+    {
+      "basename": "連立一次方程式",
+      "path": "Note/数学/線形代数/連立方程式/連立一次方程式.md"
+    },
+    {
+      "basename": "掃き出し法",
+      "path": "Note/数学/線形代数/連立方程式/掃き出し法.md"
+    },
+    {
+      "basename": "同次連立一次方程式",
+      "path": "Note/数学/線形代数/連立方程式/同次連立一次方程式.md"
+    },
+    {
+      "basename": "拡大係数行列",
+      "path": "Note/数学/線形代数/連立方程式/拡大係数行列.md"
+    },
+    {
+      "basename": "階段行列",
+      "path": "Note/数学/線形代数/連立方程式/階段行列.md"
+    },
+    {
+      "basename": "階数",
+      "path": "Note/数学/線形代数/連立方程式/階数.md"
+    },
+    {
+      "basename": "行基本変換",
+      "path": "Note/数学/線形代数/連立方程式/行基本変換.md"
+    },
+    {
+      "basename": "行列",
+      "path": "Note/数学/線形代数/行列/行列.md"
+    },
+    {
+      "basename": "一意的",
+      "path": "Note/数学/線形代数/行列/一意的.md"
+    },
+    {
+      "basename": "正則行列",
+      "path": "Note/数学/線形代数/行列/正則行列.md"
+    },
+    {
+      "basename": "正方行列",
+      "path": "Note/数学/線形代数/行列/正方行列.md"
+    },
+    {
+      "basename": "転置行列",
+      "path": "Note/数学/線形代数/行列/転置行列.md"
+    },
+    {
+      "basename": "z変換",
+      "path": "Note/デジタル信号処理/数学準備/z変換.md"
+    },
+    {
+      "basename": "ステップ関数",
+      "path": "Note/デジタル信号処理/数学準備/ステップ関数.md"
+    },
+    {
+      "basename": "サンプリング",
+      "path": "Note/デジタル信号処理/数学準備/サンプリング.md"
+    },
+    {
+      "basename": "ディジタル信号処理ノート",
+      "path": "Note/デジタル信号処理/ディジタル信号処理ノート.md"
+    },
+    {
+      "basename": "ラプラス変換",
+      "path": "Note/デジタル信号処理/数学準備/ラプラス変換.md"
+    },
+    {
+      "basename": "絶対可積分",
+      "path": "Note/デジタル信号処理/数学準備/絶対可積分.md"
+    },
+    {
+      "basename": "逆ラプラス変換",
+      "path": "Note/デジタル信号処理/数学準備/逆ラプラス変換.md"
+    },
+    {
+      "basename": "フーリエ変換",
+      "path": "Note/デジタル信号処理/数学準備/フーリエ変換.md"
+    },
+    {
+      "basename": "フーリエ級数",
+      "path": "Note/デジタル信号処理/数学準備/フーリエ級数.md"
+    },
+    {
+      "basename": "信号処理",
+      "path": "Note/デジタル信号処理/知識/信号処理.md"
+    },
+    {
+      "basename": "因果律",
+      "path": "Note/デジタル信号処理/知識/因果律.md"
+    },
+    {
+      "basename": "時不変性",
+      "path": "Note/デジタル信号処理/知識/時不変性.md"
+    },
+    {
+      "basename": "線形性",
+      "path": "Note/デジタル信号処理/数学準備/線形性.md"
+    },
+    {
+      "basename": "電気電子系",
+      "path": "00 Index/電気電子系.md"
+    },
+    {
+      "basename": "数学・物理",
+      "path": "00 Index/数学・物理.md"
+    },
+    {
+      "basename": "情報系",
+      "path": "00 Index/情報系.md"
+    },
+    {
+      "basename": "四力&制御",
+      "path": "00 Index/四力&制御.md"
+    },
+    {
+      "basename": "1_機械システム工学科情報機械プログラム",
+      "path": "00 Index/1_機械システム工学科情報機械プログラム.md"
+    },
+    {
+      "basename": "システム系",
+      "path": "00 Index/システム系.md"
+    },
+    {
+      "basename": "機械設計・製図",
+      "path": "00 Index/機械設計・製図.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
