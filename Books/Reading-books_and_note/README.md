@@ -11,3 +11,6 @@ some notes form bookes I read.
 
 ## Deep Learning (斎藤 康毅) 
 ![jpg](https://m.media-amazon.com/images/I/513J77QZHgL._SY291_BO1,204,203,200_QL40_ML2_.jpg)
+
+## Python ゼロからはじめるプログラミング（三谷 純）
+![jpg](https://m.media-amazon.com/images/I/51imjzYORmS._SX394_BO1,204,203,200_.jpg)
