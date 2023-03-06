@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9fde781146287c89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb61634584dfcf22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
-                "mode": "source",
+                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
+                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
+                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md"
+                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md"
               }
             }
           }
@@ -175,6 +157,7 @@
   },
   "active": "0e496f20a427ab2f",
   "lastOpenFiles": [
+    "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
     "Note/数学/線形代数/線形代数ノート.md",
     "Note/数学/線形代数/ベクトル空間/内積.md",
     "Note/数学/線形代数/ベクトル空間/Schwarzの不等式.md",
@@ -193,7 +176,6 @@
     "Note/数学/線形代数/ベクトル空間/正規直交系.md",
     "Note/数学/線形代数/ベクトル空間/正規化.md",
     "Note/数学/線形代数/ベクトル空間/内積空間.md",
-    "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
     "Note/数学/線形代数/行列/行列.md",
     "Note/数学/線形代数/固有値と固有ベクトル/固有値.md",
     "Note/数学/線形代数/ベクトル空間/核空間.md",

@@ -11,14 +11,11 @@
             "id": "bba35b84ce04b552",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "pro機能/見本.canvas",
-                "viewState": {
-                  "x": 117.5,
-                  "y": -37,
-                  "zoom": -0.09654320407016569
-                }
+                "file": "obsidian基礎/Markdown.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pro機能/快捷键.md"
+                "file": "obsidian基礎/Markdown.md"
               }
             }
           },
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pro機能/快捷键.md",
+                "file": "obsidian基礎/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pro機能/快捷键.md",
+                "file": "obsidian基礎/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7a27e8bc67f2fb2e",
+  "active": "bba35b84ce04b552",
   "lastOpenFiles": [
     "pro機能/見本.canvas",
     "pro機能/快捷键.md",

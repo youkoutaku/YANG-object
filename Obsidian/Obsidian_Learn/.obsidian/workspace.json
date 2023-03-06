@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b298cd501f98209d",
+            "id": "773db3ce6e96c522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex/未命名.md",
+                "file": "Web/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3589c38beb3d7dc3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex/未命名.md"
+                "file": "Web/HTML.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex/未命名.md",
+                "file": "Web/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex/未命名.md",
+                "file": "Web/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,8 +163,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b298cd501f98209d",
+  "active": "773db3ce6e96c522",
   "lastOpenFiles": [
+    "LaTex/未命名.md",
+    "Web/HTML.md",
+    "Web",
     "Obsidian_Note/Note/数学/線形代数/線形代数ノート.md",
     "Obsidian_Note/Note/数学/線形代数/連立方程式/拡大係数行列.md",
     "Obsidian_Note/Note/数学/線形代数/連立方程式/階段行列.md",
