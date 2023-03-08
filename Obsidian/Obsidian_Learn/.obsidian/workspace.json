@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "326b0c58831b5e29",
+        "id": "962c8e69dec64a54",
         "type": "tabs",
         "children": [
           {
-            "id": "773db3ce6e96c522",
+            "id": "eab489ccfc4ae603",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#連続時間信号",
+                "query": "alt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +163,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "773db3ce6e96c522",
+  "active": "eab489ccfc4ae603",
   "lastOpenFiles": [
-    "LaTex/未命名.md",
     "Web/HTML.md",
+    "LaTex/未命名.md",
     "Web",
     "Obsidian_Note/Note/数学/線形代数/線形代数ノート.md",
     "Obsidian_Note/Note/数学/線形代数/連立方程式/拡大係数行列.md",

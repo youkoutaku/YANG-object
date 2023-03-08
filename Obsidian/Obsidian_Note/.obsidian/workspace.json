@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
+                "file": "00 Index/数学・物理.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
+                "file": "00 Index/数学・物理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md",
+                "file": "00 Index/数学・物理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/デジタル信号処理/ディジタル信号処理ノート.md"
+                "file": "00 Index/数学・物理.md"
               }
             }
           }
@@ -146,17 +147,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "0e496f20a427ab2f",
+  "active": "31b60ca75497f171",
   "lastOpenFiles": [
+    "00 Index/1_機械システム工学科情報機械プログラム.md",
+    "00 Index/機械設計・製図・生産.md",
+    "00 Index/システム系.md",
+    "Note/デジタル信号処理/ディジタル信号処理ノート.md",
     "Note/数学/線形代数/固有値と固有ベクトル/固有値と固有ベクトル.md",
     "Note/数学/線形代数/線形代数ノート.md",
     "Note/数学/線形代数/ベクトル空間/内積.md",
@@ -179,10 +184,6 @@
     "Note/数学/線形代数/行列/行列.md",
     "Note/数学/線形代数/固有値と固有ベクトル/固有値.md",
     "Note/数学/線形代数/ベクトル空間/核空間.md",
-    "Note/数学/線形代数/ベクトル空間/基底の取り替え行列.md",
-    "Note/数学/線形代数/連立方程式/階数.md",
-    "Note/数学/線形代数/連立方程式/rank.md",
-    "Note/デジタル信号処理/数学準備/線形性.md",
     "Note/数学/コンピューター数学",
     "Note/数学/線形代数/ベクトル空間",
     "Note/数学/線形代数/attachments/Pasted image 20230226115613.png",
