@@ -1,14 +1,49 @@
-body{
-    background-color:#d2b48c;
-    margin-left: 20%;
-    margin-right: 20%;
-    border: 2px dotted black;
-    padding: 10px 10px 10px 10px; 
-    font-family: sans-serif;
+@media screen and (min-width: 900px){
+    div.note{
+        background-color:#F0F8FF;
+        margin-left: 20%;
+        margin-right: 20%;
+        border: 2px dotted black;
+        padding:10px 10px 10px 10px;
+        font-family: sans-serif;
+    }
 }
-p{
-    background-color: red;
-    border: 1px solid gray;
+
+@media screen and (max-width: 800px ){
+    div.note{
+        background-color:#010101;
+        margin-left: 20%;
+        margin-right: 20%;
+        border: 2px dotted black;
+        padding:10px 10px 10px 10px;
+        font-family: sans-serif;
+    }
+}
+
+a:link{
+    color: #007e7e;
+}
+a:visited{
+    color: rebeccapurple;
+}
+a:hover{
+    background: red;
+}
+
+.plog{
+    line-height: 1.2em;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    border-color: #b3f1fc;
+    border-width: 2px;
+    border-style: solid;
+    background-color: white;
+    background-image: url(../img/Background.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 25px;
+    margin: 30px;
 }
 h1, h2{
     font-family: sans-serif; /*字体*/
@@ -16,4 +51,63 @@ h1, h2{
 }
 h1{
     border-bottom: 1px solid black; /*下划线*/
+}
+
+header{
+    background-color: #675c47;
+    margin: 10px 10px 10px 10px;
+    height: 109px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header p{
+    float: left;
+}
+section#main{
+    display: table-cell;
+	vertical-align: top;/*表格内容上对齐*/
+    background-color: #007e7e;
+}
+section#right{
+    display:table-cell;
+    width: 25%;
+	vertical-align: top;/*表格内容上对齐*/
+    background-color: #b3f1fc
+}
+aside{
+    display: table-cell;
+    font-size: 105%;
+    padding: 15px;
+    vertical-align: top;
+}
+footer{
+    background-color: #675c47;
+    color: #efe5d0;
+    text-align: center;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    font-size: 90%;
+}
+
+#study {
+    background-image: url(../img/Background.webp);
+    background-color: blue;
+    border-width: thin;
+    border-style: solid;
+    border-color: #007e7e;
+    width: 200px;
+}
+div#menu{
+    background-color:#928f8f;
+    width: 200px;
+    position: fixed;
+    top: 20px;
+    left: 50px;
+}
+div#tableContainer{
+	display: table;/*作为表格*/
+	border-spacing: 10px;/*表格中的单元格增加10外边距*/
+}
+div#tableRow{
+	display: table-row;/*作为表格中的第一行*/
 }

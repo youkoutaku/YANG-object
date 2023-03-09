@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alt",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3589c38beb3d7dc3",
@@ -162,9 +162,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "eab489ccfc4ae603",
+  "active": "dc77383338cd0683",
   "lastOpenFiles": [
+    "Web/Media.md",
     "Web/HTML.md",
+    "Web/[Media.md",
     "LaTex/未命名.md",
     "Web",
     "Obsidian_Note/Note/数学/線形代数/線形代数ノート.md",
