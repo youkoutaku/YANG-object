@@ -12,6 +12,6 @@ some notes form bookes I read.
 
 ## [Python ゼロからはじめるプログラミング（三谷 純）](https://github.com/youkoutaku/YANG-object/tree/main/Books/Reading-books_and_note/Form_0_to_learn_Python)
 
-## [Head First HTML And Css(Elisabeth Robson & Eric Freeman)](https://github.com/youkoutaku/YANG-object/blob/main/Obsidian/Obsidian_Learn/Web/HTML%20and%20CSS.md)
+## [Head First HTML And CSS(Elisabeth Robson & Eric Freeman)](https://github.com/youkoutaku/YANG-object/blob/main/Obsidian/Obsidian_Learn/Web/HTML%20and%20CSS.md)
 2023/3/3~2023/3/10
 
