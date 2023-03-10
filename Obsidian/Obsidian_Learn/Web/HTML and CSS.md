@@ -911,17 +911,398 @@ div#tableRow{
 
 # 12.HTML5
 ## header(页眉)
+- img
 
-## section(文章)
+## nav(导航)
+- ul
+- li
 
-## aside(导航)
+## section(区块)
+
+### article(文章)
+- header
+- time
+
+## aside(侧栏)
+- header
 
 ## footer(页脚)
 
+## time
+```html
+<time datetime="2012-02-18">2/18/2012</time>
+```
+
+## video
+```html
+<video controls autoplay width="512" height="288" src="video/.mp4"></video>
+```
+### controls
+提供视频的控制面板
+### autoplay
+立即自动播放
+### prepload
+控制视频如何加载
+- none(在播放之前不加载)
+- metadate(下载视频元数据，不下载视频内容)
+- auto(让浏览器控制)
+### poster
+设定封面
+### loop
+自动重复播放
+### width,height
+
+### 视频格式
+#### MP4容器,H.264视频与AAC音频
+- MPEG-LA公司
+- 支持: Safari, IE9+, Chrome
+- .mp4
+#### WebM容器,VP8视频与Vorbis音频
+- Google公司
+- 支持: Chrome, Firefox, Opera
+- .webm
+#### Ogg容器,Theora视频与Vorbis音频
+- Open-source
+- 支持: Firefox, Chrome, Opera
+- .ogv
+
+### 应对不同视频格式并指定格式
+```html
+<video controls autoplay width="512" height="288"> 
+	   <source src="video/v.mp4" type='video/mp4; codecs="avcl.42E01E, mp4a.40.2"'>
+	   <source src="video/v.webm" type='video/webm;codecs="vp8,vorbis"'>
+	   <source src="video/v.ogv" type='video/ogg;codecs="theora,vorbis"'>
+	   <p> Sorry. </p>
+</video>
+```
+### Flash视频
+```html
+<video controls autoplay width="512" height="288"> 
+	   <object>...</object>
+	   <p> Sorry. </p>
+</video>
+```
+## HTML5 new element
+- progress
+- meter
+- mark
+- audio
+- canvas
+- gigure
+
 # 13.表格与更多列表
+## table
+- table
+- tr
+- th
+- td
+```html
+<table>
+	<caption>
+		Table Name
+	</caption>
+	<tr> <!--第1行 -->
+		<th>...</th> <!--每一列的表头-->
+		...
+		<th>...</th>
+	</tr>
+	<tr> <!--第2行 -->
+		<td>...</td> <!--内容 -->
+		...
+		<td>...</td>
+	</tr>
+	<tr> <!--第3行 -->
+		<td>...</td>
+		...
+		<td>...</td>
+	</tr>
+</table>
+```
+```css
+table{
+	margin-left:  20px;
+	margin-right: 20px;
+	border: thin solid black;
+	caption-side: bottom;
+}
+td,th{
+	border: thin dotted gray;
+	padding: 5px;
+}
+caption{
+	font-style: italic;
+	padding-top: 8px;
+}
+```
+### border-spacing
+边框间距
+```css
+border-spacing: 10px;
+```
+### border-collapse
+折叠边框
+```css
+border-collapse: collapse;
+```
 
+## nth-child
+伪类
+### 选择偶数段落
+```css
+p:nth-child(2n){
+	background-color: red;
+}
+```
+### 选择奇数段落
+```css
+p:nth-child(n){
+	background-color: green;
+}
+```
 
-# 14. HTML表单：实现交互
+## 单元格跨行
+```html
+<tr>
+	<td rowspan="2"></td>
+</tr>
+```
+## 单元格跨列
+```html
+<tr>
+	<td colspan="2"></td>
+</tr>
+```
 
+## 表格嵌套
+
+## list style
+- disc(黑圆)
+- circle(空心圆)
+- square(方形)
+- none(无)
+```css
+li{
+	list-style-type:disc;
+}
+```
+- 自定义图标
+```css
+li{
+	list-style-image:url(../img/lise.jpg);
+}
+```
+
+# 14. HTML form：实现交互
+## web如何收集form
+1. 使用浏览器填写form
+2. 浏览器将form打包发送至服务器
+3. 服务器将form传输给服务器脚本处理
+4. 服务器脚本处理数据之后，生成一个新的html传回服务器
+5. 服务器将新生成的html作为响应传回浏览器
+
+## 关于服务器脚本
+服务器脚本，也服务器端程序。通常用php,Ruby on Rails,Perl,Python,Node.js,Java等语言开发。
+
+## form
+- action: web服务的url
+- url: 脚本地址
+- method: form数据的发送方式
+	- POST: form数据会发送至服务器 ，用户不可见
+		- 使用textarea
+		- 隐私信息
+	- GET: form数据发送至服务器，且生成url用户可见
+		- 用于查看结果
+```html
+<from action="http://wickedlysmart.com/hfhtmlcss/contest.php"
+	method="POST">
+	<p>Just type in your name to enter the contest:<br>
+	First name:<input type="text" name="firstname" value=""><br>
+	Last name: <input type="text" name="lastname" value=""><br>
+	<input type="submit">
+	</p>
+```
+
+### input
+#### type
+##### text
+文本输入
+```html
+<form>
+	<input type="text" name="fullname">
+</form>
+```
+##### submit
+提交输入
+```html
+<form>
+	<input type="submit">
+</form>
+```
+##### radio
+单选按
+- name:一致
+- value:选项
+```html
+<form>
+	<input type="radio" name="hotornot" value="hot">
+	<input type="radio" name="hotornot" value="not">
+</form>
+```
+##### checkbox
+复选框
+- name:一致
+- value:选项
+```html
+<form>
+	<input type="checkbox" name="spice" value="Salt">
+	<input type="checkbox" name="spice" value="Pepper">
+	<input type="checkbox" name="spice" value="Garlic">
+</form>
+```
+##### number
+```html
+<input type="number" min="0" max="20">
+```
+##### range
+范围滑动条
+```html
+<input type="range" min="0" max="20" step="5">
+```
+##### color
+color selector
+```html
+<input type="color">
+```
+##### date
+date selector
+```html
+<input type="date">
+```
+##### email
+```html
+<input type="email">
+```
+##### tel
+```html
+<input type="tel">
+```
+##### url
+```html
+<input type="url">
+```
+#### maxlength
+用以限制字数
+
+#### name
+通常情况下每一个input都需要指定一个特殊唯一的name。这个name对应在服务器脚本中的操作。
+
+### select
+单选框
+- value: 向服务器发送的值
+- ><: 选择中所展示的标签
+```html
+<select name="fruit">
+  <option value="apple">苹果</option>
+  <option value="banana">香蕉</option>
+  <option value="orange">橙子</option>
+</select>
+```
+### textarea
+文本区
+- name: 指定唯一的名字
+- rows: 文本区高度
+- cols: 文本区宽度
+- >...<: 初始文本 
+```html
+<textarea name="comments" rows="10" cols="48"></textarea>
+```
+### label
+标记标签
+for: 目标id
+```html
+	<input type="radio" name="hotornot" value="hot" id="hot">
+	<label for="hot">hot</label>
+	<input type="radio" name="hotornot" value="not" id="not">
+	<label for="not">not</label>
+```
+### fieldset and legend
+input分组
+```html
+<fieldset>
+	<legend>Condiments</legend>
+	<input type="checkbox" name="spice" value="Salt">
+		Salt<br>
+	<input type="checkbox" name="spice" value="Pepper">
+		Pepper<br>
+	<input type="checkbox" name="spice" value="Garlic">
+		Garlic<br>
+</fieldset>
+```
+
+### passwords
+密码，口令.只是隐藏了输入，没有安全措施，安全性需要服务器脚本。
+```html
+	<input type="password" name="secret">
+```
+
+### file
+文件输入
+```html
+<input type="file" name="doc">
+```
+
+### multiple
+多选菜单
+```html
+<select name="fruit" multiple>
+  <option value="apple">苹果</option>
+  <option value="banana">香蕉</option>
+  <option value="orange">橙子</option>
+</select>
+```
+### Placeholder
+输入框内的提示，可以用于任何input元素
+```html
+<input type="text" placeholder="IBARAKI TAIRO">
+```
+### Required
+必须项，若未输入，将无法提交form
+```html
+<input type="text" placeholder="IBARAKI TAIRO" required>
+```
 
 # 附录
+## 1.more CSS selector
+### 伪元素
+### 属性选择器
+### 兄弟选择器
+### 结合选择器
+## 2.开发商特定CSS属性
+浏览器厂商增加的CSS属性
+## 3.CSS变换和过渡
+CSS动画
+```html
+```
+## 4.交互性
+通过script元素输入代码。JavaScript脚本语言
+## 5.HTML5 API and Web Application
+通过JavaScript访问API
+《Head First HTML5 Programming》
+## 6.Web字体
+## 7.创建Web的工具
+- Dreamweaver(Adobe)
+- Hype(Tumult)
+- Coda(Panic)
+- Microsoft Expression Web
+- Flux(The Escapers)
+- Amaya(Open-source by W3C)
+- Eclipse(Eclipse Foundation)
+## 8.XHTML5
+XML?
+SVG?
+## 9.服务器脚本
+- PHP
+- JSO or Python(if you have the experise of programing )
+- VB.NET and ASP.NET(Microsoft)
+- Node.js(JavaScript)
+## 10. audio

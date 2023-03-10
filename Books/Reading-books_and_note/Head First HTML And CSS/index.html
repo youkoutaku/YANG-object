@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>youkoutaku</title>
+        <title>youkoutaku-Home</title>
         <meta charset="utf-8">
         <link type="text/css" rel="stylesheet" href="css/text.css">
     </head>
     <body>
         <header>
-            <h2>Menu</h2>
-            <p>Home<p>
-            <p>Note<p>
-            <p>History</p>
-            <p>About me</p>
+            <h2>youkoutaku-Home</h2>
         </header>
+        <nav>
+            <ul>
+                <li> <a href=index.html>Home</a> </li>
+                <li> <a href=note/Note.html>Note</a> </li>
+                <li> <a href=history/history.html>History</a> </li>
+                <li> <a href=About/about.html>About me</a></li>
+            </ul>
+        </nav>
         <div id="tableContainer">
             <div id="tableRow">
                 <aside>
@@ -24,18 +28,28 @@
                             <li>生物</li>
                         </ol>
                 </aside>
-                <section id="main">
-                    <h1>Hey, this is YangGuangze.</h1>
-                    <h2>Name：CN:杨 广泽 JP：楊 広沢</h2>
-                    <p>
-                        My major is <q>mechanical system engineering.</q>
-                    </p>
-
+                <section id="blog">
+                    <article>
+                        <header class="top">
+                            <h2>this is the first ariticle.</h2>
+                            <time datetime="2023-3-10">2023/03/10</time>
+                        </header>
+                        <p>
+                            About me.
+                        </p>
+                    </article>
+                    <article>
+                        <header class="top">
+                            <h2>Hey, this is YangGuangze.</h2>
+                            <time datetime="2023-3-10">2023/03/10</time>
+                        </header>
+                        <p>
+                            My major is <q>mechanical system engineering.</q>
+                        </p>
+                    </article>
                     <h2> <a href="About/mission.html">My study</a> </h2>
-                    <p class="plog"> 
-                        My major is <em>mechanical system engineering.</em>
-                    </p> 
                 </section>
+
                 <section id="right">
                     <blockquote>
                         <a href="About/About.html">About</a> </h2>
@@ -45,11 +59,28 @@
                         <a target="_blank_" href="https://www.ibaraki.ac.jp/">IBARAKI University</a>： 2020/4~2024/3
                     </p>
                 </section>
+
             </div>
         </div>
         
         <footer>
             <p>
+                <from action="http://wickedlysmart.com/hfhtmlcss/contest.php"
+                method="POST">
+                <p>Just type in your name to enter the contest:<br>
+                First name:<input type="text" name="firstname" value=""><br>
+                Last name: <input type="text" name="lastname" value=""><br>
+                <input type="submit">
+                </p>
+
+                <form>
+                    <p>
+                        <input type="radio" name="hotornot" value="hot" id="hot">
+
+	                    <input type="radio" name="hotornot" value="not" id="not">
+
+                    </p>
+                </form>
                 thank you!
             </p>
         </footer>
