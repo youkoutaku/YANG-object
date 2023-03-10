@@ -7,10 +7,11 @@ some notes form bookes I read.
 自分が読んだ本のノートが記録されている．
 
 ## Python Crash Course, 2nd Edition (Eric Matthes)
-![jpg](https://m.media-amazon.com/images/I/51OOCVBfCQL.jpg)
 
 ## Deep Learning (斎藤 康毅) 
-![jpg](https://m.media-amazon.com/images/I/513J77QZHgL._SY291_BO1,204,203,200_QL40_ML2_.jpg)
 
 ## Python ゼロからはじめるプログラミング（三谷 純）
-![jpg](https://m.media-amazon.com/images/I/51imjzYORmS._SX394_BO1,204,203,200_.jpg)
+
+## Head First HTML And Css(Elisabeth Robson & Eric Freeman)
+2023/3/3~2023/3/10
+
