@@ -48,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "圆角",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "img",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3589c38beb3d7dc3",
@@ -162,7 +162,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "dc77383338cd0683",
+  "active": "24e161d21fd15376",
   "lastOpenFiles": [
     "Web/Media.md",
     "Web/HTML and CSS.md",
